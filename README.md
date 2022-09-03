@@ -1,5 +1,5 @@
 # Vibration-of-a-elastic-bar_MATLAB
-## The exact solution based on the Fourier series for vibration of a viscoelastic bar.
+## The exact solution based on the Fourier series for vibration of a elastic bar.
 Consider uniaxial wave propagation in a elastic bar of length L, fixed at one end $(z=0)$ and subjected to a suddenly applied constant axial force $F$ at the other end $(z=L)$. 
 
 the equation of motion for an elastic bar is:
